@@ -7,12 +7,14 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=rounded&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=rounded&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=rounded&logo=Node.js)
+![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=rounded&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=rounded&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-red?style=rounded&logo=angular)
-![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=rounded&logo=vuejs)
+![NextJS](https://img.shields.io/badge/-NextJS-darkblue?style=rounded&logo=Next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-darkblue?style=rounded&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-E34F26?style=rounded&logo=python)
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=rounded&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-E10098?style=rounded&logo=apollo-graphql)
+![Docker](https://img.shields.io/badge/-Docker-1572B6?style=rounded&logo=docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=rounded&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=rounded&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=rounded&logo=mongodb)
